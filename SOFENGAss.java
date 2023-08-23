@@ -86,7 +86,6 @@ public class SOFENGAss {
         database.addFlight(new Flight("AI131F49", "HYD", "BOM", 3499));
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Priyansh Dixit user");
         System.out.println("What do you want:");
         System.out.println("1. Flights for a particular City");
         System.out.println("2. Flights From a city");
